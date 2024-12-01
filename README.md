@@ -1,5 +1,6 @@
 # ColorSpace_Visualizer
-# Color Space Analyzer
+![rgb_visualizer](https://github.com/user-attachments/assets/5fe3f3d1-ca99-4c4a-8717-566751839cac)
+
 
 A Python-based GUI tool for analyzing and visualizing color spaces in video content. This application allows users to load video files and examine their color distribution in 3D space, with specific support for comparing against the Rec.709 color space standard.
 
